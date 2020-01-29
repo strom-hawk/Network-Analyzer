@@ -1,7 +1,7 @@
 # Network-Analyzer
 May 2017 – Jul 2017
 
-Project description: -
+Project description: -\n
 Tracking different packets moving through different network adapters and
 analyzing the captured packets and contents within a given amount of time.
 
